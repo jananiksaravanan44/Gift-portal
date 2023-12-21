@@ -1,0 +1,41 @@
+.heading {
+  text-align: center;
+  text-shadow: 0 0 5px grey;
+}
+
+.page {
+  text-align: center;
+  border-radius: 20px;
+  opacity: 3px;
+  background: transparent;
+  border: 5px double black;
+  color:black;
+  float: right; 
+  margin-right: -25%;  
+  font-size: larger;
+  padding-bottom: 15px;
+  margin-top: 0;
+  transform: translate(100px, 20px); 
+  height: auto;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('./Probg.png'); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+input{
+  text-align: center;
+  
+}
+form{
+  text-align: center;
+
+}

@@ -1,0 +1,27 @@
+.Navbar
+{
+    background-color: pink;
+}
+.flex
+{
+    flex-wrap: nowrap;
+}
+
+.da{
+    padding-left: 40px;
+}
+.nav{
+    background-color: pink;
+    border-color: darkturquoise;
+}
+.ds
+{
+    padding-left: 40px;
+}
+.bt
+{
+   margin-left: 500px;
+}
+.ba{
+    margin-left: 500px;
+}
